@@ -1,0 +1,9 @@
+Outlier Removal Summary for Tb
+========================================
+Method: iqr
+Threshold: 1.5
+Original samples: 1030
+Outliers removed: 9
+Outlier percentage: 0.87%
+Final samples: 1021
+Outlier value range: [204.35, 744.15]

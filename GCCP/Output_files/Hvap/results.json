@@ -1,0 +1,19 @@
+{
+  "property": "Hvap",
+  "method": 4,
+  "n_train": 64,
+  "n_test": 11,
+  "n_features": 4,
+  "lml": -29.818198637926308,
+  "condition_number": 318.8590710356953,
+  "train_r2": 0.9977094296217409,
+  "train_mae": 0.22266779632135186,
+  "train_rmse": 0.3407261028463918,
+  "test_r2": 0.915715651006249,
+  "test_mae": 1.6464155370613291,
+  "test_rmse": 2.182177668856623,
+  "calibration_train": 0.42767633544830375,
+  "calibration_test": 0.6058470400551043,
+  "cv_test_r2_mean": -18.44262650987932,
+  "cv_test_r2_std": 37.49045301499364
+}

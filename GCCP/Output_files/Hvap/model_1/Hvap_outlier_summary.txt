@@ -1,0 +1,9 @@
+Outlier Removal Summary for Hvap
+========================================
+Method: iqr
+Threshold: 1.5
+Original samples: 75
+Outliers removed: 1
+Outlier percentage: 1.33%
+Final samples: 74
+Outlier value range: [65.20, 65.20]

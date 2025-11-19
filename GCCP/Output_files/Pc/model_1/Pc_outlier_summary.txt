@@ -1,0 +1,9 @@
+Outlier Removal Summary for Pc
+========================================
+Method: iqr
+Threshold: 1.5
+Original samples: 75
+Outliers removed: 4
+Outlier percentage: 5.33%
+Final samples: 71
+Outlier value range: [12.40, 80.00]

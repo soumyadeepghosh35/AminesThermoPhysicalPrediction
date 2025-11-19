@@ -1,0 +1,19 @@
+{
+  "property": "Vc",
+  "method": 4,
+  "n_train": 59,
+  "n_test": 10,
+  "n_features": 5,
+  "lml": 56.41381307455781,
+  "condition_number": 1.0000000250790952,
+  "train_r2": 0.9913501189840486,
+  "train_mae": 11.945272341362534,
+  "train_rmse": 15.504743812929865,
+  "test_r2": 0.9849442600833201,
+  "test_mae": 9.307352535643531,
+  "test_rmse": 11.680473406226382,
+  "calibration_train": 1.0005871676614921,
+  "calibration_test": 0.4727171654039183,
+  "cv_test_r2_mean": 0.979564935328046,
+  "cv_test_r2_std": 0.007039840387904758
+}

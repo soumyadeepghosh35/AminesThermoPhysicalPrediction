@@ -1,0 +1,9 @@
+Outlier Removal Summary for logP
+========================================
+Method: iqr
+Threshold: 1.5
+Original samples: 3463
+Outliers removed: 144
+Outlier percentage: 4.16%
+Final samples: 3319
+Outlier value range: [-9.10, 17.50]

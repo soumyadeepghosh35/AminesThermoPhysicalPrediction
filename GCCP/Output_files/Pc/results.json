@@ -1,0 +1,19 @@
+{
+  "property": "Pc",
+  "method": 4,
+  "n_train": 64,
+  "n_test": 11,
+  "n_features": 5,
+  "lml": -27.756955216268565,
+  "condition_number": 1.0000000627419854,
+  "train_r2": 0.8606089821804713,
+  "train_mae": 3.3911997130790397,
+  "train_rmse": 5.008477925128098,
+  "test_r2": 0.7846949215128464,
+  "test_mae": 2.9192786215191897,
+  "test_rmse": 3.3545411933442244,
+  "calibration_train": 1.000036202171776,
+  "calibration_test": 0.6532019772551935,
+  "cv_test_r2_mean": 0.486885991892378,
+  "cv_test_r2_std": 0.5042408615473405
+}

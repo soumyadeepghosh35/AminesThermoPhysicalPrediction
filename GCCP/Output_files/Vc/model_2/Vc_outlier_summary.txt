@@ -1,0 +1,9 @@
+Outlier Removal Summary for Vc
+========================================
+Method: iqr
+Threshold: 1.5
+Original samples: 69
+Outliers removed: 3
+Outlier percentage: 4.35%
+Final samples: 66
+Outlier value range: [654.00, 1196.00]

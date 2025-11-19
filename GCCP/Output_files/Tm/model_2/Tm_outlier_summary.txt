@@ -1,0 +1,9 @@
+Outlier Removal Summary for Tm
+========================================
+Method: iqr
+Threshold: 1.5
+Original samples: 1939
+Outliers removed: 15
+Outlier percentage: 0.77%
+Final samples: 1924
+Outlier value range: [77.15, 683.15]
